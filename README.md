@@ -1,4 +1,4 @@
-📰 Fake News Detection System
+#📰 Fake News Detection System
 
 AI-powered model to classify news articles as Real or Fake
 
@@ -71,6 +71,7 @@ Recall: 94%
 F1 Score: 94%
 
 🔧 How to Run
+
 1️⃣ Clone the Repo
 git clone https://github.com/mrigankmathur/FakeNewsDetection.git
 cd FakeNewsDetection
